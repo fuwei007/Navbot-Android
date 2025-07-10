@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Navbot EN01</string>
+    <string name="deice_filter_name">navbot_</string>
+    <string name="title_activity_add_device">AddDeviceActivity</string>
+    <string name="title_activity_device_detail">DeviceDetailActivity</string>
+    <string name="title_activity_device_setting">DeviceSettingActivity</string>
+
+
+</resources>
